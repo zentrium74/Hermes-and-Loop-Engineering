@@ -6,7 +6,7 @@
 
 ## What is Hermes?
 
-Hermes is a **terminal-based AI agent** (powered by Claude via the OpenClaw framework). Think of it like the movie *Ghajini* — it has short-term memory loss by default, but with the right file architecture, it gets better every day. It loses track in the short term sometimes, but builds persistent intelligence over time.
+Hermes is a **terminal-based AI agent** (powered by LM Model). Think of it like the movie *Ghajini* — it has short-term memory loss by default, but with the right file architecture, it gets better every day. It loses track in the short term sometimes, but builds persistent intelligence over time.
 
 When you start a session:
 ```
